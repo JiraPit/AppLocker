@@ -1,0 +1,1 @@
+{"id":"2716faf6-0b43-4b45-9250-f93f33238f11","space":11044,"runtime":"python3.9","name":"unlock_api","path":"dt6fo9","project":"c08ec7nt","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","requests"],"envs":null,"public":true,"log_level":"debug","cron":""}
